@@ -1,0 +1,11 @@
+#+title: avy
+#+roam_tags learning "quick jump" "easy motion" anki
+
+* Avy
+
+- Jump to word: g s space <word> <reference-letter(s)>
+- Spell check word g s space <word> i <reference-letter(s)> <selection>
+
+  This is much nicer than what I've done with easymotion.  It reminds me of the jump in vimium, which I enjoy
+
+Resource: https://www.youtube.com/watch?v=zar4GsOBU0g

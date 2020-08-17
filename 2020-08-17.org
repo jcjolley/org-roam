@@ -1,0 +1,11 @@
+#+title: 2020-08-17
+
+* TODO QA For Kelsey
+** TODO GOV-214
+** TODO GOV-235
+
+* TODO Watch more DOOM videos and take notes on them
+
+* TODO Prep for 1:30 Meeting
+** TODO Come up with a plan to propose for me to work on [[AWS Seam Research
+]]

@@ -1,0 +1,26 @@
+#+title: 2020-08-13
+
+* Task List
+
+** STRT Watch all of the DOOM videos: https://www.youtube.com/playlist?list=PLhXZp00uXBk4np17N39WvB80zgxlZfVwj
+
+** STRT Learn how to actually use TODOs...  this is hard.
+  https://orgmode.org/manual/TODO-Basics.html#TODO-Basics
+
+** STRT Learn how to use org-roam
+  https://www.orgroam.com/manual/Tags.html#Tags
+
+** TODO   turn off Ispell red squigglies
+
+
+* Random thoughts
+
+  *Is this bold?*   It is!  Excellent
+  _Italic?_ Nope, underlined
+  /Italic/?   yes.  I see.
+
+  Truly learning information takes so much time.  I'm pretty afraid of jumping into this process.
+
+  But, just like learning VIM has helped propel my ability to edit a long ways forward, hopefully this exercise will propel my brain forward.  I'm tired of feeling dumb.  I want to learn, and I want to _retain_ what I learn.
+
+  I also want to become a more methodical person.  I am driven my whim and impulse in so many situations.  I'd love to be able to reign that in somehow.  I'm considering not allowing myself to do anything at work until I've put it into one of these todo lists and have activated that task.

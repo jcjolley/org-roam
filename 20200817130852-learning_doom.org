@@ -1,0 +1,5 @@
+#+title: Learning Doom
+
+* Getting Started
+** Use the space key to navigate
+*** SPC f for file navigation
